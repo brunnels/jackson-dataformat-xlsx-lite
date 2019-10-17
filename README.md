@@ -21,7 +21,7 @@ This project uses a lot of copy from jackson-dataformat-csv.
 	<dependency>
 	    <groupId>com.github.brunnels</groupId>
 	    <artifactId>jackson-dataformat-xlsx-lite</artifactId>
-	    <version>2.9.9-1</version>
+	    <version>2.9.9.2</version>
 	</dependency>
 ```
 
