@@ -19,7 +19,7 @@ This project uses a lot of copy from jackson-dataformat-csv.
 
 ```xml
 	<dependency>
-	    <groupId>com.github.sett4</groupId>
+	    <groupId>com.github.brunnels</groupId>
 	    <artifactId>jackson-dataformat-xlsx-lite</artifactId>
 	    <version>2.9.9-1</version>
 	</dependency>
